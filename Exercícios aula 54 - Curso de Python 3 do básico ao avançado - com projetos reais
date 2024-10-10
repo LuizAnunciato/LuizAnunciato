@@ -1,0 +1,49 @@
+Exercícios do curso "Curso de Python 3 do básico ao avançado - com projetos reais"
+Exercícios:
+
+#Exercício 1:
+
+numero = (input("Digite um número inteiro: "))
+if numero.isdigit():
+    numero_int = int(numero)
+    if (numero_int % 2 == 0):
+        print("O número {} é um número par".format(numero))
+    else:
+        print("O número {} é um número ímpar".format(numero))
+else:
+    print("O número {} que você digitou não é um número inteiro".format(numero))
+
+#-----------------------------------------------------------------------------------
+#Exercício 2:
+
+horario = (input("Informe qual o horário de agora: "))
+try:
+    horario_int = int(horario)
+    if (horario_int >= 0 and horario <=12):
+        print("Desejo-lhe um ótimo dia!")
+    elif (horario_int >=13 and horario <= 17):
+        print("Desejo-lhe uma ótima tarde!")
+    elif (horario_int >= 18 and horario <= 23):
+        print("Desejo-lhe uma noite agradável")
+    else:
+        print("Não conheço essa hora")
+
+except:
+    print("Por favor, digite apenas número inteiros!")
+
+#-------------------------------------------------------------------------------------
+#Exercício 3:
+
+nome = input("Digite seu primeiro nome: ")
+tam_nome = len(nome)
+
+if tam_nome > 1:
+    if (tam_nome <= 4):
+        print("{} seu nome é curto".format(nome))
+    elif (tam_nome >= 5 and tam_nome <= 6):
+        print("{} seu nome tem um tamanho médio".format(nome))
+    else:
+        print("{} seu nome é muito grande".format(nome))
+else:
+    print("Digite mais de uma letra!")
+    
