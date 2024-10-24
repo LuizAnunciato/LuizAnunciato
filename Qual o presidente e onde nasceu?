@@ -1,0 +1,11 @@
+#Exercício: escreva um programa que receba um nome de completo de um presidente dos EUA e retorne o estado em que ele nasceu! Utilizando dicionários
+
+#Receber o nome e definição do dicionário
+nome = input("Digite o nome de um presidente dos EUA: ")
+estado= {'Donald Trump': ['Nova iorque'] , 'Joe biden' : ['Pensilvânia'] , 'George Washington' : ['Virgínia']}
+
+#Estrutura de condição para identificar qual o presidente e o estado onde nasceu
+if nome in estado:
+    print('{} é de: {}'.format(nome,estado[nome]))
+else:
+    print('{} não foi encontrado na lista de presidentes'.format(nome))
