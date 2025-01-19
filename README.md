@@ -21,8 +21,8 @@ Here are a few things I'm learning along my journey:
 
 📫 **Get in touch**
 
-![Email](https://img.shields.io/badge/mcluizspessoal@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red) &nbsp; 
-![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)  
+[![Email](https://img.shields.io/badge/mcluizspessoal@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mcluizspessoal@gmail.com) &nbsp; 
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Luizfelipewf1)  
 
 ---
 
