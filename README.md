@@ -17,4 +17,4 @@ Here are a few things I'm learning along my journey:
 
 📫 **Get in touch**
 
-![Email](https://img.shields.io/badge/mcluizspessoal@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black)
+![Email](https://img.shields.io/badge/mcluizspessoal@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)
