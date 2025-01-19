@@ -22,3 +22,13 @@ Here are a few things I'm learning along my journey:
 📫 **Get in touch**
 
 ![Email](https://img.shields.io/badge/mcluizspessoal@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)
+
+---
+
+### 🧰 Tools:
+Here are a few tools I'm familiar with:
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) &nbsp; 
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) &nbsp; 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) &nbsp; 
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
