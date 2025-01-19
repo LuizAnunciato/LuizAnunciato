@@ -22,7 +22,7 @@ Here are a few things I'm learning along my journey:
 📫 **Get in touch**
 
 ![Email](https://img.shields.io/badge/mcluizspessoal@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)  
-![X](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)  
+![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)  
 
 ---
 
