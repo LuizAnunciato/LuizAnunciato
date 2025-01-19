@@ -16,4 +16,5 @@ Here are a few things I'm learning along my journey:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 📫 **Get in touch**
-![Email](https://img.shields.io/badge/mcluizspessoal@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white)
+
+![Email](https://img.shields.io/badge/mcluizspessoal@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black)
