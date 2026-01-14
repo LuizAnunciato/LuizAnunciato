@@ -22,7 +22,7 @@ Tecnologias que estou estudando e utilizando no meu aprendizado em desenvolvimen
 📫 **Contato**
 
 [![Email](https://img.shields.io/badge/luizfelipeanunciatto@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luizfelipeanunciatto@gmail.com) &nbsp; 
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Luizfelipewf1)  
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Anunciattto)  
 
 ---
 
