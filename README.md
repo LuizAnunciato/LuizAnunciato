@@ -26,8 +26,8 @@ Tecnologias que estou estudando e utilizando no meu aprendizado em desenvolvimen
 
 ---
 
-### 🧰 Tools:
-Here are a few tools I'm familiar with:
+### 🧰 Ferramentas:
+Ferramentas que utilizo para construir e organizar meus projetos:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) &nbsp; 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/) &nbsp; 
